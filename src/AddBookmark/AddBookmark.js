@@ -123,7 +123,7 @@ class AddBookmark extends Component {
                     type = 'number'
                     name = 'rating'
                     id = 'rating'
-                    devaultValue = '1'
+                    defaultValue = '1'
                     min = '1'
                     max = '5'
                     required
